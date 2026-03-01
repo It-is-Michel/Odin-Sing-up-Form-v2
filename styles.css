@@ -7,3 +7,18 @@
 
   display: flex;
 }
+
+.left-display {
+  position: relative;
+}
+
+.left-display__bg-image {
+  width: 100%;
+  height: 100%;
+
+  position: absolute;
+
+  background-image: url(3d-printer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
