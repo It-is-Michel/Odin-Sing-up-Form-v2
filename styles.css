@@ -9,6 +9,8 @@
 }
 
 .left-display {
+  flex-grow: 1;
+
   background-image: url(3d-printer.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -24,4 +26,8 @@
   align-items: center;
 
   background-color: hsla(0 0% 0% / 0.75);
+}
+
+.right-side {
+  width: clamp(60ch, 70vw, 160ch);
 }
