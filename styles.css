@@ -80,10 +80,14 @@
   font-size: calc(1.3rem + 0.5vw);
 }
 
-.create-account-form {
+.create-account-form__inputs-wrapper {
   padding-left: var(--padding-left);
 
   background-color: white;
+}
+
+.create-account-form__submit-button {
+  margin-left: var(--padding-left);
 }
 
 .login-text {
