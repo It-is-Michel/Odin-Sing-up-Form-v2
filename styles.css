@@ -85,7 +85,7 @@
 }
 
 .create-account-form__inputs-wrapper {
-  padding-left: var(--padding-left);
+  padding: 1rem 0 1rem var(--padding-left);
 
   background-color: white;
 }
