@@ -82,6 +82,8 @@
 
 .create-account-form {
   padding-left: var(--padding-left);
+
+  background-color: white;
 }
 
 .login-text {
