@@ -72,6 +72,7 @@
 .form-context {
   width: 60ch;
 
+  margin: 0;
   padding-left: var(--padding-left);
 
   font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
