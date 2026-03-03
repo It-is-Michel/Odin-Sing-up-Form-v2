@@ -62,6 +62,10 @@
 .right-side {
   --padding-left: 5vw;
 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
   background-color: #f0f0f0;
 }
 
