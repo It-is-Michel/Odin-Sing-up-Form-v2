@@ -28,6 +28,17 @@
   background-color: hsla(0 0% 0% / 0.85);
 }
 
+.left-display__join {
+  font-size: calc(1rem + 0.5vw);
+  color: white;
+}
+
+.left-display__logotype {
+  font-family: "Cabin Sketch", ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;;
+  font-size: calc(3rem + 0.5vw);
+  color: white;
+}
+
 .right-side {
   width: clamp(60ch, 70vw, 160ch);
 }
