@@ -9,6 +9,7 @@
 }
 
 .left-display {
+  position: relative;
   flex-grow: 1;
 
   background-image: url(3d-printer.jpg);
@@ -45,6 +46,10 @@
 }
 
 .left-display__image-copyright {
+  width: 100%;
+  position: absolute;
+  bottom: 1rem;
+
   text-align: center;
   color: white;
 }
