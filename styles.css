@@ -95,6 +95,22 @@
   color: #232323;
 }
 
+.create-account-form__name-inputs,
+.create-account-form__contact-inputs,
+.create-account-form__password-inputs {
+  display: flex;
+
+  margin: 1rem 0;
+
+  gap: clamp(1ch, 5vw, 5ch);
+}
+
+.create-account-form__inputs {
+  width: 30ch;
+
+  display: inline-block;
+}
+
 .create-account-form__submit-button {
   margin-left: var(--padding-left);
 }
