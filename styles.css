@@ -74,7 +74,7 @@
 }
 
 .form-context {
-  width: 60ch;
+  width: clamp(10ch, 90% ,60ch);
 
   margin: 0;
   padding-left: var(--padding-left);
