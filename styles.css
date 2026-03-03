@@ -43,3 +43,8 @@
 .right-side {
   width: clamp(60ch, 70vw, 160ch);
 }
+
+.left-display__image-copyright {
+  text-align: center;
+  color: white;
+}
