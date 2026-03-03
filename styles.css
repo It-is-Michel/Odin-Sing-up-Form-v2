@@ -60,11 +60,23 @@
 }
 
 .right-side {
+  --padding-left: 5vw;
+
   background-color: #f0f0f0;
 }
 
 .form-context {
+  padding-left: var(--padding-left);
+
   font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
   font-weight: 700;
   font-size: calc(1.3rem + 0.5vw);
+}
+
+.create-account-form {
+  padding-left: var(--padding-left);
+}
+
+.login-text {
+  padding-left: var(--padding-left);
 }
