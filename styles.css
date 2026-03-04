@@ -164,6 +164,11 @@
   color: white;
 }
 
+.create-account-form__submit-button:focus {
+  box-shadow: none;
+  background-color: #403252;
+}
+
 .login-text {
   margin-top: 0;
   padding-left: var(--padding-left);
