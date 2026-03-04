@@ -114,6 +114,8 @@
   width: 30ch;
 
   display: inline-block;
+
+  color: rgb(55, 55, 55);
 }
 
 .create-account-form__submit-button {
