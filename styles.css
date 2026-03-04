@@ -145,8 +145,6 @@
 .create-account-form__input:user-invalid {
   outline: none;
   border-color:rgb(225, 0, 0);
-
-  box-shadow: rgba(58, 58, 58, 0.25) 0.1rem 0.15rem 0.25rem;
 }
 
 .create-account-form__submit-button {
