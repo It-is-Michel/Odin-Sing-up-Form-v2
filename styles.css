@@ -111,14 +111,14 @@
 }
 
 .create-account-form__labels {
-  width: 30ch;
-
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
 
   color: rgb(55, 55, 55);
 }
 
 .create-account-form__input {
+  width: clamp(20ex, 25vw, 40ex);
   height: 1.8rem;
 
   margin-top: 0.1rem;
