@@ -149,7 +149,8 @@
 
 .create-account-form__submit-button {
   margin-left: var(--padding-left);
-  
+  padding: 0.75rem 3rem;
+
   border: none;
   border-radius: 0.5rem;
 
