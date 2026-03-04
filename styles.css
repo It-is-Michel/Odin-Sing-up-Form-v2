@@ -127,6 +127,8 @@
   border-radius: 0.25rem;
 
   background-color: rgb(253, 253, 253);
+
+  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
 }
 
 .create-account-form__input:focus {
