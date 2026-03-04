@@ -149,6 +149,7 @@
 
 .create-account-form__submit-button {
   margin-left: var(--padding-left);
+  margin-bottom: 1.8rem;
   padding: 0.75rem 3rem;
 
   border: none;
@@ -164,5 +165,6 @@
 }
 
 .login-text {
+  margin-top: 0;
   padding-left: var(--padding-left);
 }
