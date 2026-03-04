@@ -167,6 +167,8 @@
 .login-text {
   margin-top: 0;
   padding-left: var(--padding-left);
+
+  font-family: system-ui, sans-serif;
 }
 
 .login-text__login-link {
