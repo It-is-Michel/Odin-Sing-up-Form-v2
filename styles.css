@@ -110,7 +110,7 @@
   gap: clamp(1ch, 5vw, 5ch);
 }
 
-.create-account-form__inputs {
+.create-account-form__labels {
   width: 30ch;
 
   display: inline-block;
