@@ -168,3 +168,9 @@
   margin-top: 0;
   padding-left: var(--padding-left);
 }
+
+.login-text__login-link {
+  font-weight: 700;
+  text-decoration: none;
+  color: #54426B;
+}
