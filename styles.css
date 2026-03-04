@@ -157,6 +157,10 @@
   background-color: #54426B;
 
   box-shadow: rgba(84, 66, 107, 0.35) 0.1rem 0.15rem 0.25rem;
+
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  color: white;
 }
 
 .login-text {
