@@ -118,6 +118,17 @@
   color: rgb(55, 55, 55);
 }
 
+.create-account-form__input {
+  height: 1.8rem;
+
+  margin-top: 0.1rem;
+
+  border: 1px solid rgb(222, 222, 222);
+  border-radius: 0.25rem;
+
+  background-color: rgb(253, 253, 253);
+}
+
 .create-account-form__submit-button {
   margin-left: var(--padding-left);
 }
