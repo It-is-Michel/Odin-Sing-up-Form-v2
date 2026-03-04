@@ -122,7 +122,7 @@
   width: clamp(20ex, 25vw, 40ex);
   height: 1.8rem;
 
-  margin-top: 0.1rem;
+  margin-top: 0.2rem;
   padding-left: 0.5rem;
 
   border: 1px solid rgb(222, 222, 222);
@@ -132,6 +132,7 @@
 
   font-family: system-ui, sans-serif;
   font-size: 1rem;
+  color: #232323;
 }
 
 .create-account-form__input:focus {
