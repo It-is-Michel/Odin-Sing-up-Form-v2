@@ -34,13 +34,13 @@
 }
 
 .left-display__join {
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: system-ui, sans-serif;
   font-size: calc(1rem + 0.5vw);
   color: #efefef;
 }
 
 .left-display__logotype {
-  font-family: "Cabin Sketch", ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: "Cabin Sketch", system-ui, sans-serif;
   font-size: calc(3rem + 0.5vw);
   color: white;
 }
@@ -54,7 +54,7 @@
   position: absolute;
   bottom: 1rem;
 
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: system-ui, sans-serif;
   text-align: center;
   color: white;
 }
@@ -79,7 +79,7 @@
   margin: 0;
   padding-left: var(--padding-left);
 
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: system-ui, sans-serif;
   font-weight: 700;
   font-size: calc(1.3rem + 0.5vw);
 }
@@ -96,7 +96,7 @@
 }
 
 .create-account-form__header {
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: system-ui, sans-serif;
   color: #232323;
 }
 
@@ -128,7 +128,8 @@
 
   background-color: rgb(253, 253, 253);
 
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
 }
 
 .create-account-form__input:focus {
