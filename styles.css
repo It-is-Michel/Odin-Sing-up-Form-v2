@@ -149,6 +149,13 @@
 
 .create-account-form__submit-button {
   margin-left: var(--padding-left);
+  
+  border: none;
+  border-radius: 0.5rem;
+
+  background-color: #54426B;
+
+  box-shadow: rgba(84, 66, 107, 0.35) 0.1rem 0.15rem 0.25rem;
 }
 
 .login-text {
